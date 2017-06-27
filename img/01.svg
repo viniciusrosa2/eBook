@@ -1,128 +1,135 @@
-<svg width="150" height="150" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="150" height="132" viewBox="0 0 150 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>01</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(-5431 -522)">
+<g id="Canvas" transform="translate(-4633 -456)">
 <g id="01">
+<mask id="mask0_alpha" mask-type="alpha">
 <g id="Rectangle 18">
-<use xlink:href="#path0_fill" transform="translate(5431 522)" fill="#F6F6F6"/>
+<use xlink:href="#path0_fill" transform="translate(4633 456)" fill="#F6F6F6"/>
+</g>
+</mask>
+<g id="01" mask="url(#mask0_alpha)">
+<g id="Rectangle 18">
+<use xlink:href="#path0_fill" transform="translate(4633 456)" fill="#F6F6F6"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path1_fill" transform="translate(5439.06 556.504)" fill="#F7F7F7"/>
+<use xlink:href="#path1_fill" transform="translate(4641.06 490.504)" fill="#F7F7F7"/>
 </g>
 <g id="Rectangle 2 (Stroke)">
-<use xlink:href="#path2_fill" transform="translate(5438.06 555.504)" fill="#555555"/>
+<use xlink:href="#path2_fill" transform="translate(4640.06 489.504)" fill="#555555"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path3_fill" transform="translate(5441.96 580.067)" fill="#CBCBCB"/>
+<use xlink:href="#path3_fill" transform="translate(4643.96 514.067)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path4_fill" transform="translate(5465.4 581.181)" fill="#FFFFFF"/>
+<use xlink:href="#path4_fill" transform="translate(4667.4 515.181)" fill="#FFFFFF"/>
 </g>
 <g id="Rectangle 2 (Stroke)">
-<use xlink:href="#path5_fill" transform="translate(5464.9 580.681)" fill="#8B8B8B"/>
+<use xlink:href="#path5_fill" transform="translate(4666.9 514.681)" fill="#8B8B8B"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path6_fill" transform="translate(5468.75 583.41)" fill="#CBCBCB"/>
+<use xlink:href="#path6_fill" transform="translate(4670.75 517.41)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path7_fill" transform="translate(5530.13 581.181)" fill="#CBCBCB"/>
+<use xlink:href="#path7_fill" transform="translate(4732.13 515.181)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path8_fill" transform="translate(5530.13 599.011)" fill="#CBCBCB"/>
+<use xlink:href="#path8_fill" transform="translate(4732.13 533.011)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path8_fill" transform="translate(5530.13 606.812)" fill="#CBCBCB"/>
+<use xlink:href="#path8_fill" transform="translate(4732.13 540.812)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path9_fill" transform="translate(5468.75 600.125)" fill="#CBCBCB"/>
+<use xlink:href="#path9_fill" transform="translate(4670.75 534.125)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path10_fill" transform="translate(5468.75 603.468)" fill="#CBCBCB"/>
+<use xlink:href="#path10_fill" transform="translate(4670.75 537.468)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path11_fill" transform="translate(5468.75 615.726)" fill="#DFE3EE"/>
+<use xlink:href="#path11_fill" transform="translate(4670.75 549.726)" fill="#DFE3EE"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path12_fill" transform="translate(5468.75 619.069)" fill="#DFE3EE"/>
+<use xlink:href="#path12_fill" transform="translate(4670.75 553.069)" fill="#DFE3EE"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path11_fill" transform="translate(5468.75 623.527)" fill="#DFE3EE"/>
+<use xlink:href="#path11_fill" transform="translate(4670.75 557.527)" fill="#DFE3EE"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path10_fill" transform="translate(5468.75 626.87)" fill="#DFE3EE"/>
+<use xlink:href="#path10_fill" transform="translate(4670.75 560.87)" fill="#DFE3EE"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path13_fill" transform="translate(5465.4 612.383)" fill="#FFFFFF"/>
+<use xlink:href="#path13_fill" transform="translate(4667.4 546.383)" fill="#FFFFFF"/>
 </g>
 <g id="Rectangle 2 (Stroke)">
-<use xlink:href="#path14_fill" transform="translate(5464.9 611.883)" fill="#8B8B8B"/>
+<use xlink:href="#path14_fill" transform="translate(4666.9 545.883)" fill="#8B8B8B"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path15_fill" transform="translate(5439 565.044)" fill="#555555"/>
+<use xlink:href="#path15_fill" transform="translate(4641 499.044)" fill="#555555"/>
 </g>
 <g id="Vector (Stroke)">
-<use xlink:href="#path16_fill" transform="translate(5438 564.352)" fill="#555555"/>
+<use xlink:href="#path16_fill" transform="translate(4640 498.352)" fill="#555555"/>
 </g>
 <g id="Ellipse">
-<use xlink:href="#path17_fill" transform="translate(5441.48 558.917)" fill="#8B8B8B"/>
+<use xlink:href="#path17_fill" transform="translate(4643.48 492.917)" fill="#8B8B8B"/>
 </g>
 <g id="Ellipse">
-<use xlink:href="#path17_fill" transform="translate(5447.11 558.917)" fill="#CBCBCB"/>
+<use xlink:href="#path17_fill" transform="translate(4649.11 492.917)" fill="#CBCBCB"/>
 </g>
 <g id="Ellipse">
-<use xlink:href="#path17_fill" transform="translate(5452.75 558.917)" fill="#555555"/>
+<use xlink:href="#path17_fill" transform="translate(4654.75 492.917)" fill="#555555"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path18_fill" transform="translate(5468.6 614.942)" fill="#CBCBCB"/>
+<use xlink:href="#path18_fill" transform="translate(4670.6 548.942)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path10_fill" transform="translate(5468.75 619.565)" fill="#CBCBCB"/>
+<use xlink:href="#path10_fill" transform="translate(4670.75 553.565)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path9_fill" transform="translate(5468.75 622.619)" fill="#CBCBCB"/>
+<use xlink:href="#path9_fill" transform="translate(4670.75 556.619)" fill="#CBCBCB"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path10_fill" transform="translate(5468.75 625.962)" fill="#CBCBCB"/>
+<use xlink:href="#path10_fill" transform="translate(4670.75 559.962)" fill="#CBCBCB"/>
 </g>
 <g id="Mask Group" style="mix-blend-mode:color">
-<mask id="mask0_alpha" mask-type="alpha">
-<g id="Rectangle 2">
-<use xlink:href="#path1_fill" transform="translate(5439.06 556.504)" fill="#F7F7F7"/>
-</g>
-</mask>
 <mask id="mask1_alpha" mask-type="alpha">
-<g id="Rectangle 2 (Stroke)">
-<use xlink:href="#path2_fill" transform="translate(5438.06 555.504)" fill="#555555"/>
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(4641.06 490.504)" fill="#F7F7F7"/>
 </g>
 </mask>
-<g id="Rectangle 16" style="mix-blend-mode:color" mask="url(#mask1_alpha)">
-<use xlink:href="#path19_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5429.99 554.423)" fill="#3B5998"/>
+<mask id="mask2_alpha" mask-type="alpha">
+<g id="Rectangle 2 (Stroke)">
+<use xlink:href="#path2_fill" transform="translate(4640.06 489.504)" fill="#555555"/>
+</g>
+</mask>
+<g id="Rectangle 16" style="mix-blend-mode:color" mask="url(#mask2_alpha)">
+<use xlink:href="#path19_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4631.99 488.423)" fill="#3B5998"/>
 </g>
 </g>
 <g id="Group">
 <g id="Rectangle 13">
-<use xlink:href="#path20_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5502.37 627.442)" fill="#3B5998"/>
+<use xlink:href="#path20_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4704.37 561.442)" fill="#3B5998"/>
 </g>
 <g id="Rectangle 12">
-<use xlink:href="#path21_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5497.82 621.109)" fill="#DCE2F0"/>
+<use xlink:href="#path21_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4699.82 555.109)" fill="#DCE2F0"/>
 </g>
 <g id="Rectangle 12 (Stroke)">
-<use xlink:href="#path22_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5497.82 621.109)" fill="#3B5998"/>
+<use xlink:href="#path22_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4699.82 555.109)" fill="#3B5998"/>
 </g>
 <g id="Rectangle 15 (Stroke)">
-<use xlink:href="#path23_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5524.61 607.538)" fill="#3B5998"/>
+<use xlink:href="#path23_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4726.61 541.538)" fill="#3B5998"/>
 </g>
 <g id="Rectangle 14">
-<use xlink:href="#path24_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5547.87 636.489)" fill="#8B9DC3"/>
+<use xlink:href="#path24_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4749.87 570.489)" fill="#8B9DC3"/>
 </g>
 <g id="Rectangle 14 (Stroke)">
-<use xlink:href="#path25_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 5547.87 636.489)" fill="#3B5998"/>
+<use xlink:href="#path25_fill" transform="matrix(0.709165 -0.705043 0.709165 0.705043 4749.87 570.489)" fill="#3B5998"/>
+</g>
 </g>
 </g>
 </g>
 </g>
 <defs>
-<path id="path0_fill" d="M 0 0L 150 0L 150 150L 0 150L 0 0Z"/>
+<path id="path0_fill" d="M 0 0L 150 0L 150 132L 0 132L 0 0Z"/>
 <path id="path1_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 114.778 0C 115.882 0 116.778 0.89543 116.778 2L 116.778 78.4304C 116.778 79.5349 115.882 80.4304 114.778 80.4304L 2 80.4304C 0.89543 80.4304 0 79.5349 0 78.4304L 0 2Z"/>
 <path id="path2_fill" fill-rule="evenodd" d="M 0 3C 0 1.34315 1.34315 0 3 0L 115.778 0C 117.434 0 118.778 1.34315 118.778 3L 118.778 79.4304C 118.778 81.0872 117.434 82.4304 115.778 82.4304L 3 82.4304C 1.34315 82.4304 0 81.0872 0 79.4304L 0 3ZM 3 2C 2.44772 2 2 2.44772 2 3L 2 79.4304C 2 79.9827 2.44772 80.4304 3 80.4304L 115.778 80.4304C 116.33 80.4304 116.778 79.9827 116.778 79.4304L 116.778 3C 116.778 2.44772 116.33 2 115.778 2L 3 2Z"/>
 <path id="path3_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 18.0896 0C 19.1942 0 20.0896 0.89543 20.0896 2L 20.0896 50.3745C 20.0896 51.479 19.1942 52.3745 18.0896 52.3745L 2 52.3745C 0.89543 52.3745 0 51.479 0 50.3745L 0 2Z"/>
@@ -131,16 +138,16 @@
 <path id="path6_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 49.3401 0C 50.4447 0 51.3401 0.89543 51.3401 2L 51.3401 12.4866C 51.3401 13.5911 50.4447 14.4866 49.3401 14.4866L 2 14.4866C 0.89543 14.4866 0 13.5911 0 12.4866L 0 2Z"/>
 <path id="path7_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 20.3218 0C 21.4264 0 22.3218 0.89543 22.3218 2L 22.3218 12.4866C 22.3218 13.5911 21.4264 14.4866 20.3218 14.4866L 2 14.4866C 0.89543 14.4866 0 13.5911 0 12.4866L 0 2Z"/>
 <path id="path8_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 20.3218 0C 21.4264 0 22.3218 0.89543 22.3218 2L 22.3218 3.57175C 22.3218 4.67632 21.4264 5.57175 20.3218 5.57175L 2 5.57175C 0.89543 5.57175 0 4.67632 0 3.57175L 0 2Z"/>
-<path id="path9_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 35.7166 0C 36.3321 0 36.831 0.498912 36.831 1.11435L 36.831 1.11435C 36.831 1.72979 36.3321 2.2287 35.7166 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435L 0 1.11435Z"/>
-<path id="path10_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 22.3235 0C 22.939 0 23.4379 0.498912 23.4379 1.11435L 23.4379 1.11435C 23.4379 1.72979 22.939 2.2287 22.3235 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435L 0 1.11435Z"/>
-<path id="path11_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 47.9936 0C 48.609 0 49.1079 0.498912 49.1079 1.11435L 49.1079 1.11435C 49.1079 1.72979 48.609 2.2287 47.9936 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435L 0 1.11435Z"/>
-<path id="path12_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 32.3683 0C 32.9838 0 33.4827 0.498912 33.4827 1.11435L 33.4827 1.11435C 33.4827 1.72979 32.9838 2.2287 32.3683 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435L 0 1.11435Z"/>
+<path id="path9_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 35.7166 0C 36.3321 0 36.831 0.498912 36.831 1.11435C 36.831 1.72979 36.3321 2.2287 35.7166 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435Z"/>
+<path id="path10_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 22.3235 0C 22.939 0 23.4379 0.498912 23.4379 1.11435C 23.4379 1.72979 22.939 2.2287 22.3235 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435Z"/>
+<path id="path11_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 47.9936 0C 48.609 0 49.1079 0.498912 49.1079 1.11435C 49.1079 1.72979 48.609 2.2287 47.9936 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435Z"/>
+<path id="path12_fill" d="M 0 1.11435C 0 0.498912 0.498912 0 1.11435 0L 32.3683 0C 32.9838 0 33.4827 0.498912 33.4827 1.11435C 33.4827 1.72979 32.9838 2.2287 32.3683 2.2287L 1.11435 2.2287C 0.498912 2.2287 0 1.72979 0 1.11435Z"/>
 <path id="path13_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 57.1528 0C 58.2573 0 59.1528 0.89543 59.1528 2L 59.1528 16.944C 59.1528 18.0485 58.2573 18.944 57.1528 18.944L 2 18.944C 0.89543 18.944 0 18.0485 0 16.944L 0 2Z"/>
 <path id="path14_fill" fill-rule="evenodd" d="M 0 2.5C 0 1.11929 1.11929 0 2.5 0L 57.6528 0C 59.0335 0 60.1528 1.11929 60.1528 2.5L 60.1528 17.444C 60.1528 18.8247 59.0335 19.944 57.6528 19.944L 2.5 19.944C 1.11929 19.944 0 18.8247 0 17.444L 0 2.5ZM 2.5 1C 1.67157 1 1 1.67157 1 2.5L 1 17.444C 1 18.2724 1.67157 18.944 2.5 18.944L 57.6528 18.944C 58.4812 18.944 59.1528 18.2724 59.1528 17.444L 59.1528 2.5C 59.1528 1.67157 58.4812 1 57.6528 1L 2.5 1Z"/>
 <path id="path15_fill" d="M 0 0L 117.11 0L 117.11 12.7944L 0 12.7944L 0 0Z"/>
 <path id="path16_fill" fill-rule="evenodd" d="M 0 1C 0 0.447715 0.447715 0 1 0L 117.466 0C 118.019 0 118.466 0.447715 118.466 1C 118.466 1.55228 118.019 2 117.466 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
 <path id="path17_fill" d="M 4.02681 2.01076C 4.02681 3.12127 3.12538 4.02152 2.01341 4.02152C 0.901433 4.02152 0 3.12127 0 2.01076C 0 0.900248 0.901433 0 2.01341 0C 3.12538 0 4.02681 0.900248 4.02681 2.01076Z"/>
-<path id="path18_fill" d="M 0 1.27944C 0 0.572824 0.572824 0 1.27944 0L 50.1974 0C 50.904 0 51.4768 0.572825 51.4768 1.27944L 51.4768 1.27944C 51.4768 1.98605 50.904 2.55888 50.1974 2.55888L 1.27944 2.55888C 0.572824 2.55888 0 1.98605 0 1.27944L 0 1.27944Z"/>
+<path id="path18_fill" d="M 0 1.27944C 0 0.572824 0.572824 0 1.27944 0L 50.1974 0C 50.904 0 51.4768 0.572825 51.4768 1.27944C 51.4768 1.98605 50.904 2.55888 50.1974 2.55888L 1.27944 2.55888C 0.572824 2.55888 0 1.98605 0 1.27944Z"/>
 <path id="path19_fill" d="M 0 0L 53.8938 0L 53.8938 107.391L 0 107.391L 0 0Z"/>
 <path id="path20_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 54.4601 0C 55.5647 0 56.4601 0.89543 56.4601 2L 56.4601 4.41593C 56.4601 5.52049 55.5647 6.41593 54.4601 6.41593L 2 6.41593C 0.89543 6.41593 0 5.52049 0 4.41593L 0 2Z"/>
 <path id="path21_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 51.8938 0C 52.9983 0 53.8938 0.89543 53.8938 2L 53.8938 18.531C 53.8938 19.6355 52.9983 20.531 51.8938 20.531L 2 20.531C 0.89543 20.531 0 19.6355 0 18.531L 0 2Z"/>
