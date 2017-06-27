@@ -27,6 +27,19 @@ Apesar de não ter iniciado o projeto diretamente num diretório do github, o me
 * [como-criar-landing-pages-que-convertem.pdf](https://files.nuclino.com/files/dfce0447-3b94-4890-9f99-422c83d25875/como-criar-landing-pages-que-convertem.pdf)
 * [Principais métricas utilizadas para avaliar sua Landing Page](http://wsidm.com.br/blog/aprenda-quais-metricas-usar-para-avaliar-a-landing-page/ "Principais métricas utilizadas para avaliar sua Landing Page")
 
+
+## Dependências
+* Font
+  * Open Sans ([Google Fonts](https://fonts.google.com/specimen/Open\+Sans?selection.family=Open\+Sans:400,700 "Google Fonts"))
+* Libs
+  * Bootstrap v4.0.0-alpha.6 ([Bootstrap · The most popular HTML, CSS, and JS framework in the world.](https://v4-alpha.getbootstrap.com/ "Bootstrap · The most popular HTML, CSS, and JS framework in the world."))
+  * jQuery 3.2.1 ([Download jQuery | jQuery](https://jquery.com/download/ "Download jQuery | jQuery"))
+* Assets 
+  * [Resultados Digitais - Brand assets](http://resultadosdigitais.com.br/identidade/ "Resultados Digitais - Brand assets")
+  * [RD Station UI Toolkit | Group](http://ui-toolkit.rdstation.com.br/ "RD Station UI Toolkit | Group")
+  * Ebook: [marketing-no-facebook.pdf - Google Drive](https://drive.google.com/file/d/0B6-4tODakJVBU2JqcmZ0SVVyOFU/view "marketing-no-facebook.pdf - Google Drive")
+
+
 # Wireframes, Protótipos e Assets
 
 Arquivo disponível no  Figma: [https://www.figma.com/file/fVwYX1iZoLJV0F0xzzDYe3pr/Teste-R](https://www.figma.com/file/fVwYX1iZoLJV0F0xzzDYe3pr/Teste-RD "https://www.figma.com/file/fVwYX1iZoLJV0F0xzzDYe3pr/Teste-RD")
