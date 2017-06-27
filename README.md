@@ -27,10 +27,10 @@ Apesar de não ter iniciado o projeto diretamente num diretório do github, o me
 * [como-criar-landing-pages-que-convertem.pdf](https://files.nuclino.com/files/dfce0447-3b94-4890-9f99-422c83d25875/como-criar-landing-pages-que-convertem.pdf)
 * [Principais métricas utilizadas para avaliar sua Landing Page](http://wsidm.com.br/blog/aprenda-quais-metricas-usar-para-avaliar-a-landing-page/ "Principais métricas utilizadas para avaliar sua Landing Page")
 
-# Design
+# Wireframes, Protótipos e Assets
 
 Arquivo disponível no  Figma: [https://www.figma.com/file/fVwYX1iZoLJV0F0xzzDYe3pr/Teste-R](https://www.figma.com/file/fVwYX1iZoLJV0F0xzzDYe3pr/Teste-RD "https://www.figma.com/file/fVwYX1iZoLJV0F0xzzDYe3pr/Teste-RD")
 
-## Página de conversão implementada
+# Página de conversão implementada
 
 [Resultados Digitais - Introdução ao Marketing no Facebook](http://vinirosa.com.br/rd/ "Resultados Digitais - Introdução ao Marketing no Facebook")
